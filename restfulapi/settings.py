@@ -25,7 +25,7 @@ SECRET_KEY = 'n-&12(dr32i9v7lp2=auaag0u+)(xq590=z5kv$7ie!*g=!&fx'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['infinite-sols.sl']
 
 
 # Application definition
